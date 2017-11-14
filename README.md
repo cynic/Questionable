@@ -1,0 +1,3 @@
+# Questionable
+
+A common way to check whether beginner CS students are able to solve various small problems is by making them solve small code challenges, with one method per challenge.  Unit-tests are then used to check whether they've managed to solve the problem or not.  However, marking CS student submissions by hand is an error-prone and laborious process, and sometimes a student will leave code in such a state that it will not even compile.  Questionable makes this a bit easier.  It's geared towards the specific technologies that are used at Rhodes University (as of 2016), though I'm relatively sure that the `UnitTestMarker` project could be modified with little effort to handle different contexts.
