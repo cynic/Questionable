@@ -46,7 +46,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
     <Reference Include="ThinkLib">
-      <HintPath>..\..\..\..\..\Downloads\ThinkLib.dll</HintPath>
+      <HintPath>..\ThinkLib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
